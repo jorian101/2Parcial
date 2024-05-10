@@ -3,7 +3,7 @@ import Content from './Content'
 import Image from './Image'
 const Card = () => {
   return (
-    <div className="card" id="card">
+    <div className="card">
         <Image/>
         <Content/>
     </div>
